@@ -1,0 +1,5 @@
+D:\work\calc\bin\Release\net8.0-windows\win-x64\publish\Calculator.exe
+D:\work\calc\bin\Release\net8.0-windows\win-x64\publish\Calculator.dll
+D:\work\calc\bin\Release\net8.0-windows\win-x64\publish\Calculator.deps.json
+D:\work\calc\bin\Release\net8.0-windows\win-x64\publish\Calculator.runtimeconfig.json
+D:\work\calc\bin\Release\net8.0-windows\win-x64\publish\Calculator.pdb
